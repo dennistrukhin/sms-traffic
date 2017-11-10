@@ -1,6 +1,6 @@
 {
   "author": "Dennis Trukhin (Dvt)",
-  "name": "sms-traffic",
+  "name": "dvt/sms-traffic",
   "version": "0.1.0",
   "require-dev": {
     "phpunit/phpunit": "*"
