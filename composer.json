@@ -1,0 +1,13 @@
+{
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Dvt\\SmsTraffic\\": "src/SmsTraffic"
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "*"
+  }
+}
