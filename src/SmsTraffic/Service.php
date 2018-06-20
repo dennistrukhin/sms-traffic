@@ -7,7 +7,7 @@ use Dvt\SmsTraffic\Exception\HttpError;
 class Service
 {
 
-    const SMS_TRAFFIC_HOST = 'http://www.smstraffic.ru';
+    const SMS_TRAFFIC_HOST = 'http://api.smstraffic.ru';
     const SMS_TRAFFIC_HOST_FAIL_OVER = 'http://server2.smstraffic.ru';
     const SMS_TRAFFIC_PATH = '/multi.php';
 
